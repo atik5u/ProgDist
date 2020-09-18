@@ -1,2 +1,3 @@
 # ProgDist
-"fisrt push et pull"
+On vients de commancer
+on va reessayer
